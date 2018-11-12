@@ -2,4 +2,6 @@
 
 OK，Hello
 
+中国，你好！
 
+今天学习github技术；
